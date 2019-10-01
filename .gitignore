@@ -1,2 +1,1 @@
-# Don't track content of these folders
-.ipynb_checkpoints/
+.ipynb_checkpoints
