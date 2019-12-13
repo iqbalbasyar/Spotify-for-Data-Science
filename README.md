@@ -11,4 +11,9 @@ Classify spotify song's genre using its feature
 Do a regression on song's feature to predict song's popularity
 
 
+Data source : 
+- [ultimate_spotify_tracks](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db)
+
+
+
 
